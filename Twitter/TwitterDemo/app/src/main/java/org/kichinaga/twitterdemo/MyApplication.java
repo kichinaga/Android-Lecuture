@@ -10,8 +10,9 @@ import twitter4j.TwitterFactory;
 
 public class MyApplication extends Application {
 
-    private final String CONSUMER_KEY = "obcX9RzMu9JkfPkxJyicsr6nn";
-    private final String CONSUMER_SERCRET_KEY = "WbmfSE3MgcLltfn4VZXrvQlFxpHvjmytYLlFw3I6FytzEqWELt";
+    //自分で入手したキーを入れてください
+    private final String CONSUMER_KEY = "<consumer-key>";
+    private final String CONSUMER_SERCRET_KEY = "<consumer-sercret-key>";
 
     @Override
     public void onCreate() {
