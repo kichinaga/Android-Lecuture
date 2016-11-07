@@ -1,0 +1,2 @@
+# Android-Lecuture
+L_Semi Androidレクチャー用 RecyclerViewとTwitterAPIのデモアプリ
